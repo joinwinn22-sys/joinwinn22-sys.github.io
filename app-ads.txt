@@ -158,3 +158,4 @@ pubnative.net, 1009458, RESELLER, d641df8625486a7b
 start.io, 197760873, RESELLER
 stroeer.com, 17379, RESELLER
 thunder-monetize.com, 2158729563, RESELLER
+google.com, pub-5512842090769316, DIRECT, f08c47fec0942fa0
